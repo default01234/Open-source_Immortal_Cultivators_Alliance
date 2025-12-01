@@ -1,4 +1,4 @@
-**Language** | **English** | [中文（简）](../docs/迈向开源不朽.md) | [日本語](../docs/オープンソースの不死へ.md) |
+**Language** | **English** | [中文（简）](../docs/迈向开源不朽.md) | [日本語](../docs/オープンソースの不死へ.md) | ...
 
 # **Towards our Open-Source Immortality**
 **—Open-source Immortal Cultivators Alliance**
